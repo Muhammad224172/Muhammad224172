@@ -1,27 +1,27 @@
 ## Muhammad Abdulrahman  
-**Master's Student in Data Science | AI in Healthcare & Computational Biology**
+**Data Scientist | Machine Learning Engineer | Operations Research Enthusiast**  
+*Focused on Healthcare & Energy Analytics*
 
-Passionate about leveraging machine learning and AI to drive innovations in medicine, diagnostics, and biological research. Currently exploring **causality in ML and healthcare applications**, with expertise in **Python, R, PyTorch**, and **computational biology**.
+Passionate about applying **machine learning, data science, and operations research** to solve complex problems in **healthcare** and **energy systems**. I enjoy building data-driven solutions that optimize decision-making, improve efficiency, and create real-world impact.
 
 ---
 
 ### **Core Expertise**
-- **AI/ML Applications in Healthcare** – Developing intelligent solutions for medical diagnostics and clinical research.
-- **Computational Biology** – Applying data science techniques to biological systems and biomedical data.
-- **Causal Inference** – Understanding cause-effect relationships in healthcare and medical datasets.
-- **Technical Stack** – Python, R, PyTorch, Git, Bash scripting.
+- **Machine Learning & AI** – Predictive modeling, optimization, and scalable ML solutions for real-world applications.
+- **Operations Research & Optimization** – Leveraging mathematical modeling and analytical methods for complex decision-making in healthcare and energy sectors.
+- **Healthcare & Energy Analytics** – Data-driven approaches to improve medical diagnostics, health operations, and energy efficiency.
+- **Technical Stack** – Python, R, PyTorch, scikit-learn, Git, SQL, Bash scripting.
 
 ---
 
-### **Research Interests**
-🔬 **AI-driven biomedical research**  
-🏥 **Machine learning for healthcare diagnostics**  
-📊 **Causal inference in medical data analysis**  
-🧬 **Computational approaches to biological problems**
+### **Research & Professional Interests**
+💡 **AI & ML for Healthcare** – Diagnostics, patient care optimization, and biomedical research.  
+⚡ **Energy Systems Analytics** – Fuel consumption modeling, smart grid optimization, and energy efficiency.  
+📈 **Operations Research & Causal Inference** – Data-informed decision support and understanding cause–effect relationships.  
 
 ---
 
 ### **Connect**
 📧 [GitHub](https://github.com/Muhammad224172?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/mabdulrahman11410/)
 
-*Building the future of AI-powered healthcare through rigorous research and innovative applications.*
+*Driven to bridge data science, machine learning, and operations research to tackle pressing challenges in healthcare and energy.*
