@@ -1,27 +1,26 @@
-## Muhammad Abdulrahman  
-**Data Scientist | Machine Learning Engineer | Operations Research Enthusiast**  
-*Focused on Healthcare & Energy Analytics*
+## Muhammad Abdulrahman
+**MSc Data Science · Sabancı University, Istanbul**
+*Computational Genomics & Genomic Language Models*
 
-Passionate about applying **machine learning, data science, and operations research** to solve complex problems in **healthcare** and **energy systems**. I enjoy building data-driven solutions that optimize decision-making, improve efficiency, and create real-world impact.
-
----
-
-### **Core Expertise**
-- **Machine Learning & AI** – Predictive modeling, optimization, and scalable ML solutions for real-world applications.
-- **Operations Research & Optimization** – Leveraging mathematical modeling and analytical methods for complex decision-making in healthcare and energy sectors.
-- **Healthcare & Energy Analytics** – Data-driven approaches to improve medical diagnostics, health operations, and energy efficiency.
-- **Technical Stack** – Python, R, PyTorch, scikit-learn, Git, SQL, Bash scripting.
+Researcher in the Adebali Lab working at the intersection of machine learning and genomics — building models that predict the functional impact of genetic variants at scale.
 
 ---
 
-### **Research & Professional Interests**
-💡 **AI & ML for Healthcare** – Diagnostics, patient care optimization, and biomedical research.  
-⚡ **Energy Systems Analytics** – Fuel consumption modeling, smart grid optimization, and energy efficiency.  
-📈 **Operations Research & Causal Inference** – Data-informed decision support and understanding cause–effect relationships.  
+### Research
+- **Genomic Language Models** — Developing AAGLM, a dual-stream transformer that integrates sequence and annotation signals for variant pathogenicity prediction (AUROC 0.9993 on ClinVar).
+- **Discrete Genomic Representations** — Designing VQ-VAE architectures (EVOKE, PHYLM) to tokenize CADD annotation features and phylogenetic signals for use in transformer pipelines.
+- **Large-Scale Variant Data** — Processing billions of variants across whole-genome SNV datasets on HPC clusters (SLURM, MareNostrum BSC, Sabancı sakura).
 
 ---
 
-### **Connect**
-📧 [GitHub](https://github.com/Muhammad224172?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/mabdulrahman11410/)
+### Stack
+Python · PyTorch · HPC/SLURM · PyArrow · scikit-learn · Bash · Git · SQL
 
-*Driven to bridge data science, machine learning, and operations research to tackle pressing challenges in healthcare and energy.*
+---
+
+### Background
+BSc Industrial Engineering → MSc Data Science.
+
+---
+
+📧 [GitHub](https://github.com/Muhammad224172?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mabdulrahman11410/)
