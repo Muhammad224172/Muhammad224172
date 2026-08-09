@@ -6,14 +6,8 @@ Researcher in the Adebali Lab working at the intersection of machine learning an
 
 ---
 
-### Research
-- **Genomic Language Models** — Developing AAGLM, a dual-stream transformer that integrates sequence and annotation signals for variant pathogenicity prediction (AUROC 0.9993 on ClinVar).
-- **Discrete Genomic Representations** — Designing VQ-VAE architectures (EVOKE, PHYLM) to tokenize CADD annotation features and phylogenetic signals for use in transformer pipelines.
-- **Large-Scale Variant Data** — Processing billions of variants across whole-genome SNV datasets on HPC clusters (SLURM, MareNostrum BSC, Sabancı sakura).
+### Research Interests
 
----
-
-### Interests
 - **Biological Language Modelling** — Representation learning and tokenization strategies for genomic and proteomic sequences.
 - **Causal Inference** — Understanding cause-effect relationships in high-dimensional biological and clinical data.
 - **Variant Effect Prediction** — Scalable methods for assessing the functional impact of genetic variation across the genome.
@@ -22,7 +16,7 @@ Researcher in the Adebali Lab working at the intersection of machine learning an
 ---
 
 ### Stack
-Python · PyTorch · HPC/SLURM · PyArrow · scikit-learn · Bash · Git · SQL
+Python · R · Bash · Git · SQL
 
 ---
 
