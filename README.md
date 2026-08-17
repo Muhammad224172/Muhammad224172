@@ -1,8 +1,7 @@
 ## Muhammad Abdulrahman
 **MSc Data Science · Sabancı University, Istanbul**
-*Computational Genomics & Genomic Language Models*
 
-Researcher in the Adebali Lab working at the intersection of machine learning and genomics — building models that predict the functional impact of genetic variants at scale.
+Ml Researcher
 
 ---
 
@@ -16,13 +15,7 @@ Researcher in the Adebali Lab working at the intersection of machine learning an
 ---
 
 ### Stack
-Python · R · Bash · Git · SQL
+Python · R · Bash · Git · SQL 
 
----
-
-### Background
-BSc Industrial Engineering → MSc Data Science.
-
----
 
 📧 [GitHub](https://github.com/Muhammad224172?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mabdulrahman11410/)
